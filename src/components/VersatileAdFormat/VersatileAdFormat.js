@@ -48,38 +48,6 @@ const VersatileAdFormat = () => {
                         </TabContent>
                     </div>
                 </div>
-                {/* <Row xs={1} md={4} className="g-4 everyone">
-
-                    <Col >
-
-                        <div className="">
-                            <Button className="versatile-btn shadow">POP-UNDER</Button>
-                        </div>
-                        <PopUnder/>
-                    </Col>
-                    <Col >
-
-                        <div className="">
-                            <Button className="versatile-btn  shadow">BANNER AD</Button>
-                        </div>
-                    </Col>
-
-                    <Col >
-
-                        <div className="">
-                            <Button className="versatile-btn shadow">NATIVE</Button>
-                        </div>
-                    </Col>
-
-                    <Col >
-
-                        <div className="">
-                            <Button className="versatile-btn shadow">SKIM</Button>
-                        </div>
-                    </Col>
-                </Row>
-                 */}
-
             </Container>
         </div>
     );
