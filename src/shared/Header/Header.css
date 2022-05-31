@@ -1,0 +1,32 @@
+.logo{
+    font-weight: bold;
+    font-size: 2rem ;
+}
+.navItem {
+    margin-right: 5px;
+    color: #644F9C !important;
+    font-weight: 500;
+    font-size: 1.1rem ;
+}
+.navItem:hover {
+    color: #FF6F00 !important;
+}
+
+.login-btn{
+    border-radius: 25px !important;
+    border-color: #fff !important;
+    background-color: #fff !important;
+    color: #000 !important;
+    padding: 5px 25px !important;
+    box-shadow: 0px 3px #d8d3d3;
+}
+
+.signUp-btn{
+    border-radius: 25px !important;
+    border-color: #fff !important;
+    background-color: #FF6F00 !important;
+    color: #fff !important;
+    margin-left: 10px;
+    box-shadow: 0px 2px #d8d3d3;
+   
+}

@@ -1,0 +1,66 @@
+.record {
+    background-color: #644F9C !important;
+    height: 80vh;
+}
+
+.record-border {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    border: 1px dotted #fff;
+}
+
+.blue {
+    background-color: #644F9C;
+}
+
+.blue h1 {
+    text-align: center;
+    font-size: 4em;
+    background-color: #644F9C;
+    color: #fff;
+}
+
+.blue h4 {
+    text-align: center;
+    font-size: 2em;
+    background-color: #644F9C;
+    color: #fff;
+}
+
+
+.white h1 {
+    text-align: center;
+    font-size: 4em;
+    background-color: #F2F2F2;
+    color: #644F9C;
+}
+
+.white h4 {
+    text-align: center;
+    font-size: 2em;
+    background-color: #F2F2F2;
+    color: #644F9C;
+}
+
+.orange {
+    background-color: #FF6F00;
+}
+
+.orange h1 {
+    text-align: center;
+    font-size: 4em;
+    background-color: #FF6F00;
+    color: #fff;
+}
+
+.orange h4 {
+    text-align: center;
+    font-size: 2em;
+    background-color: #FF6F00;
+    color: #fff;
+}
+
+.record-margin{
+    margin-bottom: 10%;
+}

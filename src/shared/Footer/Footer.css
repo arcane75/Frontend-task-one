@@ -1,0 +1,40 @@
+.text-small {
+    font-size: 0.9rem;
+}
+
+a {
+    text-decoration: none !important;
+
+}
+
+.link a {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #000 !important;
+}
+
+.link li {
+    margin-bottom: 15px !important;
+}
+
+.support a{
+    font-size: 1.2rem;
+    color: #000 !important;
+    margin-bottom: 15px !important;
+}
+.support li{
+    margin-bottom: 15px !important;
+}
+
+.blue-text {
+    color: #644F9C;
+}
+
+.form-control {
+
+    border-color: #545454;
+}
+
+.form-control:focus {}
+
+footer {}

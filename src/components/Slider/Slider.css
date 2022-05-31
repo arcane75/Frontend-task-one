@@ -1,0 +1,9 @@
+.carousel{
+    margin-bottom: 10%;
+}
+.card-style{
+    border: 1px solid #FF6F00 !important;
+    padding: 10px !important;
+    width: 95%;
+    height: 60%;
+}

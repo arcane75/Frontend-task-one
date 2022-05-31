@@ -1,0 +1,35 @@
+.versatile{
+    margin-top: 7% !important;
+}
+.versatile-ctn{
+    margin-bottom: 10% !important;
+}
+.versatile h2 {
+    text-align: center;
+    color: #644F9C;
+    display: flex;
+    flex-direction: row;
+}
+
+h2:before,
+h2:after {
+    content: "";
+    flex: 1 1;
+    border-bottom: 2px dotted #000;
+    margin: auto;
+}
+
+.versatile-btn{
+    background-color: #F2F2F2 !important;
+    border-radius: 30px !important;
+    padding: 7px 60px !important;
+    font-weight: 600 !important;
+    font-size: 1.2em !important;
+    border-color: #f2f2f207 !important;
+    border: 2px solid #F2F2F2;
+    color: #000 !important;
+}
+.versatile-btn:hover{
+    background-color: #FF6F00 !important;
+    color: #fff !important;
+}

@@ -1,0 +1,57 @@
+.available h2 {
+    text-align: center;
+    color: #644F9C;
+    display: flex;
+    flex-direction: row;
+}
+
+.available h4 {
+    text-align: center;
+}
+
+h2:before,
+h2:after {
+    content: "";
+    flex: 1 1;
+    border-bottom: 2px dotted #000;
+    margin: auto;
+}
+
+.align {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.everyone {
+    margin-top: 8% !important;
+}
+
+.image {
+
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #fff;
+}
+
+img {
+    background-color: #fff !important;
+}
+
+.everyone-text {
+    margin: 20px 0;
+}
+
+.everyone-text h5 {
+    font-weight: bold !important;
+
+}
+
+.everyone-btn {
+    background-color: #644F9C !important;
+    border-radius: 30px !important;
+    padding: 5px 80px !important;
+    font-weight: 600 !important;
+    font-size: 1.2em !important;
+}
